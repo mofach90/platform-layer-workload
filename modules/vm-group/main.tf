@@ -28,6 +28,7 @@ locals {
     team       = var.team
     env        = var.env
     group      = var.name
+    size       = var.size
     managed-by = "platform"
   }
 
