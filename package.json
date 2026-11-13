@@ -1,0 +1,8 @@
+{
+  "name": "platform-layer-workload",
+  "private": true,
+  "description": "Release tooling only: semantic-release creates the version tags. No application code.",
+  "devDependencies": {
+    "semantic-release": "25.0.9"
+  }
+}
