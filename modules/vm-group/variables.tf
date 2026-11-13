@@ -61,7 +61,7 @@ variable "instance_count" {
 }
 
 variable "size" {
-  description = "T-shirt size, mapped to a machine type by the platform"
+  description = "T-shirt size, mapped to a machine type by the platform.  "
   type        = string
 
   validation {
